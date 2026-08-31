@@ -165,7 +165,7 @@
             <verticalLayout>
               <text type="title" style="scroll" height="32" font_size="14"/>
               <text type="artist_album" style="scroll" height="32" font_size="10"/>
-              <spectrum draw_reflex="true" fixed_width="true" height="42"/>
+              <spectrum type="auto_col" draw_reflex="true" fixed_width="true" height="42"/>
             </verticalLayout>
           </horizontalLayout>
           <rectangle height="88" no_corner_radius="true">

@@ -194,8 +194,8 @@
               <horizontalLayout height="68">
                 <element>
                   <verticalLayout margin="4">
-                    <text type="title" style="scroll" height="24" font_size="10"/>
-                    <text type="artist" style="scroll" height="24"/>
+                    <trackInfo height="24"/>
+                    <text type="format" style="scroll" height="24"/>
                   </verticalLayout>
                 </element>
                 <horizontalLayout height="60" width="36%">
@@ -405,8 +405,8 @@
               </horizontalLayout>
               <horizontalLayout height="60">
                 <verticalLayout margin="4">
-                  <text type="title" style="scroll" height="24" font_size="10"/>
-                  <text type="artist" style="scroll" height="24"/>
+                  <trackInfo height="24"/>
+                  <text type="format" style="scroll" height="24"/>
                 </verticalLayout>
                 <button key="previous" width="40" height="40" bigIcon="true" margin="2"/>
                 <button key="playPause" width="40" height="40" bigIcon="true" margin="2"/>
